@@ -1,4 +1,5 @@
 testtools
 flake8
+fixtures
 testrepository
 python-subunit
